@@ -1,2 +1,2 @@
-# KMZ1479_localserver/index.html
+# KMZ1479_localserver/
 
